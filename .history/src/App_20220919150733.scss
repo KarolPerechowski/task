@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+.sticky-navbar {
+  flex: 3 0px;
+}
+.left-sidebar {
+  order: 1;
+}
+.body {
+  order: 2;
+  height: 300px;
+}
+.right-sidebar {
+  order: 3;
+}
+.sticky-footer {
+  order: 4;
+}

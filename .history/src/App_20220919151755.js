@@ -3,6 +3,7 @@ import Navbar from './components/navbar/Navbar.js';
 import Footer from './components/footer/Footer.js';
 import Body from './components/Body/Body.js';
 import Table from './components/Table/Table.js';
+import { useState } from 'react';
 
 function App() {
   return (
