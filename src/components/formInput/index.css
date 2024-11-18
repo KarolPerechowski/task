@@ -6,7 +6,8 @@
   border: 1px solid #333;
   padding: 2rem 3rem;
   font-size: 1.6rem;
-  margin: 2.4rem 0;
+  margin: 0;
+  margin-bottom: 2.4rem;
 
   &::placeholder {
     color: #132743;
